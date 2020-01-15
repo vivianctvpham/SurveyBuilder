@@ -1,0 +1,44 @@
+button.btn.btn-success {
+  float: right;
+}
+.nextButton {
+  float: right;
+}
+.addQuestionButton {
+  float: right;
+}
+.fa-plus:before {
+  content: "\f067";
+  margin-right: 4px;
+}
+.btn-sm.delete {
+  justify-content: center;
+  border-radius: 50%;
+  padding: 3px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+i.fas.fa-times {
+  display: flex;
+  font-size: 9px;
+  padding: 1px;
+}
+.qDelete {
+  justify-content: right;
+  border-radius: 50%;
+  padding: 3px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  float: right;
+}
+.answerDelete {
+  justify-content: center;
+  border-radius: 50%;
+  padding: 3px;
+  margin-right: 5px;
+  margin-top: 5px;
+  float: right;
+}
+i.far.fa-file-alt.builderTitle {
+  margin-right: 7px;
+}
